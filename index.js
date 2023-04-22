@@ -21,7 +21,7 @@ const css3 = `body{
     justify-content: center;
     align-items: center;
     background: #1f222d;
-    weight: 100vw;
+    width: 100vw;
     height: 100vh;
 }
 .title{

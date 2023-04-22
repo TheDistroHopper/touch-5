@@ -1,0 +1,27 @@
+{
+    "name": "touch-5",
+    "version": "1.2.1",
+    "description": "Make Your HTML-CSS-JS Boilerplate",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "touch5": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sarve-sh/touch-5.git"
+    },
+    "keywords": [
+        "html",
+        "css",
+        "js"
+    ],
+    "author": "Sarvesh Patil",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sarve-sh/touch-5/issues"
+    },
+    "homepage": "https://github.com/sarve-sh/touch-5#readme"
+}
